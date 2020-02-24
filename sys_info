@@ -1,0 +1,6 @@
+sunxi_platform    : Sun8iw7p1
+sunxi_secure      : normal
+sunxi_chipid      : 2c21020e786746240000540000000000
+sunxi_chiptype    : 00000042
+sunxi_batchno     : 1
+sunxi_board_id    : 8(0) 
